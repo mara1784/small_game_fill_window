@@ -3,7 +3,7 @@ This is a small game. In this game you must fill the whole window.
 
 That project uses Queue,pygame,time,threading
 
-This files also use library Pygame for grafic, processing events and other things.
+This files use library Pygame for grafic, processing events and other things.
 
 Pygame is distributed under the GNU Lesser General Public Licence (LGPL) v2.1 or newest.
 
